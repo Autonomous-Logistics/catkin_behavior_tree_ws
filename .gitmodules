@@ -1,0 +1,15 @@
+[submodule "src/sts_virtual_interfaces"]
+	path = src/sts_virtual_interfaces
+	url = https://github.com/Autonomous-Logistics/sts_virtual_interfaces
+[submodule "src/sts_behavior_tree_testing"]
+	path = src/sts_behavior_tree_testing
+	url = https://github.com/Autonomous-Logistics/sts_behavior_tree_testing
+[submodule "src/sts_core_utils"]
+	path = src/sts_core_utils
+	url = https://github.com/Autonomous-Logistics/sts_core_utils
+[submodule "src/sts_bt_visualisation"]
+	path = src/sts_bt_visualisation
+	url = https://github.com/Autonomous-Logistics/sts_bt_visualisation
+[submodule "src/sts_bt_library"]
+	path = src/sts_bt_library
+	url = https://github.com/Autonomous-Logistics/sts_bt_library
